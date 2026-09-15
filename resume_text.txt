@@ -1,0 +1,60 @@
+AKSHAYA AGARWAL
+AI Full Stack Engineer  |  LLMs · RAG · Agentic AI · React.js · Python · FastAPI · LangChain · TypeScript
+Akshayaakshaya2000@gmail.com  |  linkedin.com/in/akshaya-agarwal13
+✔  Subclass 403 Work Visa (MATES/ICT Stream) — Full Unrestricted Work Rights in Australia | No Sponsorship Required | Open to Relocate Anywhere in Australia
+PROFESSIONAL SUMMARY
+AI Full Stack Engineer with 2+ years of commercial experience building intelligent, production-grade web applications combining modern full stack engineering with cutting-edge AI. Hands-on expertise in LangChain, OpenAI API, HuggingFace, LlamaIndex, RAG pipelines, and Agentic AI frameworks — deployed in enterprise environments at Fractal Analytics. Strong full-stack foundation across React.js, TypeScript, JavaScript, Python, FastAPI, and Node.js, with cloud and DevOps experience on Microsoft Azure. Recognised with a within-tenure promotion and STAR Award for outstanding business impact. Australian work visa holder (Subclass 403) — open to relocate anywhere in Australia.
+CORE COMPETENCIES
+AI / ML: LangChain · OpenAI API · HuggingFace · LlamaIndex · RAG · Agentic AI · NLP · Prompt Engineering · Streamlit · Regression Modelling · Time Series Forecasting · MMM
+Frontend: React.js · TypeScript · JavaScript · Material UI · D3.js · Highcharts · Chart.js · Responsive Design
+Backend & APIs: FastAPI · Python · Node.js · RESTful APIs · GraphQL · Django
+Data & Cloud: SQL · Databricks · Azure Blob Storage · Azure DevOps · CI/CD Pipelines · Git · Docker (familiar)
+Tools & Methods: Postman · Agile/Scrum · Waterfall · System Testing · Technical Documentation · Cross-functional Collaboration
+PROFESSIONAL EXPERIENCE
+AI Full Stack Engineer  |  Fractal Analytics	Jul 2024 – Present
+Engineered dynamic full-stack web applications using React.js and TypeScript with reusable component libraries, improving page load performance and enabling seamless cross-device experiences for enterprise clients.
+Designed and deployed 20+ FastAPI RESTful endpoints achieving efficient frontend–backend integration, implementing result caching for computed values to eliminate redundant processing and significantly improve response performance.
+Built interactive business intelligence dashboards using Highcharts and D3.js, enabling stakeholders to interrogate large datasets through real-time visualisations — reducing time-to-insight for decision-makers.
+Developed large-scale data pipelines and ML workflows on Databricks, processing millions of rows of data to support advanced analytics and marketing mix modelling (MMM).
+Implemented AI-powered features using LangChain, OpenAI API, HuggingFace, LlamaIndex, and RAG pipelines — delivering context-aware, intelligent functionality to enterprise clients.
+Built an internal RAG knowledge assistant with a React.js chat interface, hallucination guardrails, source grounding, and 'I don't know' fallbacks — deployed across Fractal's training environment.
+Engineered Agentic AI workflows enabling autonomous multi-step reasoning and task execution within production applications, reducing manual intervention and improving decision-making speed.
+Managed CI/CD automation via Azure DevOps and leveraged Azure Blob Storage for secure, scalable cloud data management across structured and unstructured datasets.
+Promoted within tenure for exceptional performance; recipient of the STAR Award for outstanding contributions and measurable business impact.
+Software Engineer Intern  |  Corestrat	Jan 2024 – Apr 2024
+Contributed to development and bug resolution for Intelligent Decision Software (ID.AI) within the Decision Management Suite (DMS), improving application stability and integration reliability.
+Delivered key data visualisation components, UI pages, and bug fixes for AlgoPivot — a Windows-based automated trading strategy platform for US markets.
+Drove core architectural improvements enabling cleaner integration between backend trading logic and frontend visualisation layers.
+Artificial Intelligence Intern  |  CodeClause	Sep 2023 – Oct 2023
+Developed a road lane analysis system using computer vision and object detection algorithms, achieving a significant reduction in lane detection errors.
+Preprocessed and analysed video datasets within a collaborative team environment using state-of-the-art CV techniques.
+EDUCATION
+Master of Computer Applications (MCA) — CGPA: 8.1/10  |  Christ (Deemed to be University), Bengaluru	2022 – 2024
+Bachelor of Computer Applications (BCA) — CGPA: 7.4/10  |  University of Lucknow, Lucknow	2019 – 2022
+KEY PROJECTS
+RAG-Powered Internal Knowledge Assistant  ·  LangChain · LlamaIndex · OpenAI API · React.js · FastAPI · Python  |  Fractal Analytics
+Built an end-to-end RAG application enabling employees to query internal product documentation, PDFs, and presentations through a conversational chat interface. Engineered LangChain-powered retrieval pipelines with hallucination mitigation strategies including source grounding, prompt guardrails, and 'I don't know' fallback responses. Delivered a React.js chat UI with real-time responses and source attribution, deployed internally as a training resource.
+BistroBuddy – Restaurant Management Application  ·  React.js · FastAPI · Python · Material UI · SQL  |  Personal Project
+Built a full-stack restaurant management application featuring table bookings, order management, KOT (Kitchen Order Ticket) generation, and receipt printing. Designed a clean, responsive UI using React.js and Material UI with a FastAPI and Python backend handling business logic and data flow — delivering an end-to-end solution covering the full restaurant workflow from reservation to billing.
+CERTIFICATIONS
+Prompt Engineering Essentials — Analytics Vidhya (2026)
+Getting Started with LangChain — Analytics Vidhya (2025)
+Introduction to Generative AI — Analytics Vidhya (2025)
+Explore GenAI Universe — Analytics Vidhya (2025)
+Building Generative AI (Gen AI) Applications — Fractal Analytics Academy (2025)
+Data Analyst — Qlik, Fractal (2025)
+Design Thinking for Data Professionals — Fractal (2024)
+Structured Approach to Problem Solving — Fractal Analytics Academy (2024)
+Google Data Analytics Professional Certificate — Google (2023)
+ADDITIONAL INFORMATION
+Visa Status: Subclass 403 (MATES/ICT Stream) — Full unrestricted work rights in Australia for up to 2 years. No employer sponsorship required. Open to relocate anywhere in Australia.
+
+English Proficiency: PTE Academic — Overall 77  |  Listening 82  |  Reading 65  |  Speaking 75  |  Writing 66
+
+Availability: 8 weeks notice period. Available to relocate anywhere in Australia upon commencement.
+
+Languages: English (Professional Working Proficiency) · Hindi (Native)
+
+Interests: AI research, LLM applications, open-source contribution, data storytelling, travel
+
+References: Available upon request.

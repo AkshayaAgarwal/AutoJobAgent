@@ -1,0 +1,17 @@
+TO: yyrfgt@gmail.com
+SUBJECT: Application for Senior Software Engineer – AI & Innovation (.NET, Python & Azure) at Resolve Recruit
+================================================================================
+
+Hi Hiring Team,
+
+I am excited to apply for the Senior Software Engineer – AI & Innovation (.NET, Python & Azure) role at Resolve Recruit. With over 2 years of commercial experience in building intelligent web applications combining modern full-stack engineering with cutting-edge AI, I believe my skills align well with this position.
+
+As a skilled engineer, I have hands-on expertise in LangChain and FastAPI, which I utilized to design and deploy 20+ RESTful endpoints at Fractal Analytics. Additionally, I have experience working on large-scale data pipelines and ML workflows on Databricks, processing millions of records. I am also familiar with Microsoft Azure, having used it for cloud and DevOps work.
+
+I understand that Resolve Recruit focuses on providing innovative solutions to complex problems in the recruitment industry. With my strong foundation in AI/ML and full-stack development, I am confident that I can contribute to your team's success.
+
+Best regards,
+Akshaya Agarwal
++61 469 838 346
+akshaya.agarwal.au@gmail.com
+https://www.linkedin.com/in/akshaya-agarwal13
